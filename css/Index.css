@@ -10,7 +10,8 @@ and open the template in the editor.
 img {
     vertical-align: middle;
     border-style: none;
-    width: 104px;
+    width:138px;
     float: left;
+    margin-right: 12px;
 }
 
