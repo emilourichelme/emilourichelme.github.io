@@ -117,3 +117,6 @@ h1, h2, h3, h4, h5, h6 {
 #competences .container .classement3 { background-position: 0 -56px; }
 #competences .container .classement4 { background-position: 0 -28px; }
 #competences .container .classement5 { background-position: 0 0px; }
+
+.btn btn-secondary { color: #fff;background-color: #E9967A;border-color: #E9967A;}
+    
